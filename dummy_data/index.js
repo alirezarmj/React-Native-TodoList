@@ -1,0 +1,17 @@
+export const TODO_LIST = [
+  { id: 1, title: "Walk the dog", isCompleted: true },
+  { id: 2, title: "Go to the dentist", isCompleted: false },
+  { id: 3, title: "Learn React Native", isCompleted: false },
+  { id: 4, title: "Walk the dog", isCompleted: true },
+  { id: 5, title: "Go to the dentist", isCompleted: false },
+  { id: 6, title: "Learn React Native", isCompleted: false },
+  { id: 7, title: "Walk the dog", isCompleted: true },
+  { id: 8, title: "Go to the dentist", isCompleted: false },
+  { id: 9, title: "Learn React Native", isCompleted: false },
+  { id: 10, title: "Walk the dog", isCompleted: true },
+  { id: 11, title: "Go to the dentist", isCompleted: false },
+  { id: 12, title: "Learn React Native", isCompleted: false },
+  { id: 13, title: "Walk the dog", isCompleted: true },
+  { id: 14, title: "Go to the dentist", isCompleted: false },
+  { id: 15, title: "Learn React Native", isCompleted: false },
+];
