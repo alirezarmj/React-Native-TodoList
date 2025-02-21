@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "TodoList",
-    "slug": "TodoList",
+    "slug": "TodoList-App",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/logo.png",
@@ -29,7 +29,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "bf41cf92-2de3-4ca3-bc7e-e1d3da5fd2c8"
+        "projectId": "d5d3a07c-a4a8-4c2e-936b-3d41c796226f"
       }
     }
   }
